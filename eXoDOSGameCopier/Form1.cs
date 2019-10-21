@@ -20,6 +20,8 @@ namespace eXoDOSGameCopier
         }
 
 
+        // Notes: eXo would like a version that deletes contents instead.
+
         void ReadXML()
         {
             bool test = chkTestMode.Checked;
